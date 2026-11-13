@@ -2,6 +2,9 @@
 ### NASA International Space Apps Challenge 2026
 **Challenge**: *Identify Earth Locations that Analog the Permanent Moon Base Locations and Mars*
 
+🌐 **Live Production Deployment:** [https://nasa-project-khaki.vercel.app](https://nasa-project-khaki.vercel.app)  
+📦 **Connected GitHub Repository:** [https://github.com/COdE20072015/NASA-Project](https://github.com/COdE20072015/NASA-Project)
+
 ---
 
 ## 🚀 Overview
